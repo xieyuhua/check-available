@@ -1,0 +1,16 @@
+央视频道,#genre#
+
+
+CCTV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$emo线路1#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8$emo线路2#http://182.46.8.161:8018/hls/1/index.m3u8$emo线路3#http://120.224.178.16:9901/tsfile/live/0001_1.m3u8$emo线路4#http://116.131.173.194:809/hls/1/index.m3u8$emo线路5#http://120.211.119.222:8899/hls/1/index.m3u8$emo线路6#http://htv.x3322.net:509/iptv/live/y/nZLeKO.php?id=CCTV1$emo线路7#http://39.134.66.48/PLTV/88888888/224/3221225816/index.m3u8$emo线路8#http://39.134.67.226/PLTV/88888888/224/3221225816/index.m3u8$emo线路9#http://39.134.65.179/PLTV/88888888/224/3221225816/index.m3u8$emo线路10#http://39.134.65.181/PLTV/88888888/224/3221225816/index.m3u8$emo线路11
+
+
+CCTV-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8$emo线路1#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8$emo线路2#http://60.190.128.194:8888/newlive/live/hls/3/live.m3u8$emo线路3#http://117.10.59.110:8888/newlive/live/hls/3/live.m3u8$emo线路4#http://120.211.119.222:8899/hls/2/index.m3u8$emo线路5#http://121.27.126.129:809/hls/2/index.m3u8$emo线路6#http://124.128.73.58:9901/tsfile/live/0002_1.m3u8$emo线路7#http://117.44.1.204:20000/hls/2/index.m3u8$emo线路8
+
+
+CCTV-3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$emo线路1#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8$emo线路2#http://117.10.59.110:8888/newlive/live/hls/4/live.m3u8$emo线路3
+
+CCTV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8$emo线路1#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226428/index.m3u8$emo线路2#http://113.128.226.58:8888/newlive/live/hls/5/live.m3u8$emo线路3#http://117.10.59.110:8888/newlive/live/hls/5/live.m3u8$emo线路4
+
+
+CCTV-5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$emo线路1#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8$emo线路2#http://117.10.59.110:8888/newlive/live/hls/44/live.m3u8$emo线路3#http://121.27.126.107:809/hls/5/index.m3u8$emo线路4#http://39.134.67.226/PLTV/88888888/224/3221225818/index.m3u8$emo线路6#http://39.134.65.179/PLTV/88888888/224/3221225818/index.m3u8$emo线路7#http://39.134.65.181/PLTV/88888888/224/3221225818/index.m3u8$emo线路8#http://39.134.65.173/PLTV/88888888/224/3221225818/index.m3u8$emo线路9#http://39.134.66.2/PLTV/88888888/224/3221225818/index.m3u8$emo线路10
+
