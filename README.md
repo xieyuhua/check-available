@@ -22,6 +22,9 @@ pip3 install DingtalkChatbot -i https://pypi.tuna.tsinghua.edu.cn/simple
 pip3 install openpyxl
 pip3 install pyinstaller -i https://pypi.tuna.tsinghua.edu.cn/simple
 
+pip freeze > requirements.txt
+pip install -r requirements.txt
+
 pyinstaller --onefile main.py
 ```
 
